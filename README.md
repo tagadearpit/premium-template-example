@@ -18,11 +18,11 @@ The MP4 asset is copied directly from the uploaded source. It is not re-encoded 
 Open `index.html` directly, or run:
 
 ```bash
-python -m http.server 3000
+python -m http.server 5500
 ```
 
 Then open:
 
 ```text
-http://localhost:3000
+http://localhost:5500
 ```
